@@ -1,0 +1,172 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.Navbar1-li{
+    margin: 10px auto;
+    padding: 15px;
+    width: 50%;
+    background-color: rgb(166, 220, 254);
+    border-radius: 50px;
+
+    list-style: none;
+    display: flex;
+    justify-content: center;
+}
+
+.Navbar1  a{
+    text-decoration: none;
+    font-size: 24px;
+    text-align: center;
+    padding: 10px 20px;
+    display: block;
+    color: black;
+
+}
+
+.Navbar1 a:hover{
+    background-color: black;
+    color: white;
+    border-radius: 12px;
+    text-align: center;
+    transition: 1;
+} 
+
+.Navbar2{
+    text-align: center;
+    margin: 50px;
+}
+
+.Navbar2 a{
+    margin: 30px;
+    padding: 15px 20px;
+   
+    text-decoration: none;
+    font-size: 24px;
+    color: coral;
+    background-color: rgb(69, 144, 219);
+}
+
+.Navbar2 a:hover{
+    background-color: coral;
+    color: rgb(69, 144, 219);
+}
+
+.Navbar3{
+    background-color: black;
+    margin: 60px auto;
+    padding: 25px 10px;
+    text-align: center;
+    width: 45%;
+}
+
+.Navbar3 p{
+    display: inline;
+    padding: 0px 40px;
+}
+
+.Navbar3 p a{
+    color: yellow;
+    text-decoration: none;
+    font-size: 24px;
+    padding: 5px;
+}
+
+.Navbar3 p a:hover{
+    border-bottom: 4px solid yellow;
+}
+
+.Navbar4-li{
+    width: 120px;
+    background-color: rgb(151, 6, 6);
+    padding: 40px;
+    margin-left: 150px;
+    list-style: none;
+    text-align: center;
+
+}
+
+.Navbar4{
+    padding-bottom: 10px;
+    padding-top: 10px;
+    width: 100px;
+    text-align: center;
+    background-color: black;
+    margin: 20px;
+}
+
+.Navbar4  a{
+    font-size: 25px;
+    text-decoration: none;
+    color: white;
+}
+
+.Navbar4-li .Navbar4:hover{
+    position: relative;
+    right: -100px;
+}
+
+.Navbar5-li{
+    width: 120px;
+    background-color: rgb(151, 6, 6);
+    padding: 40px;
+    margin-left: 150px;
+    list-style: none;
+    text-align: center;
+
+}
+
+.Navbar5{
+    padding-bottom: 10px;
+    padding-top: 10px;
+    width: 100px;
+    text-align: center;
+    background-color: black;
+    margin: 20px;
+}
+
+.Navbar5  a{
+    font-size: 25px;
+    text-decoration: none;
+    color: white;
+}
+
+.Navbar5-li .Navbar4:hover{
+    position: relative;
+    right: -100px;
+}
+
+.Navbar5-li{margin: 50px;
+    width: 120px;
+    background-color: rgb(6, 88, 151);
+    padding: 40px;
+    margin-left: 150px;
+    list-style: none;
+    text-align: center;
+
+}
+
+.Navbar5{
+    padding-bottom: 10px;
+    padding-top: 10px;
+    width: 100px;
+    text-align: center;
+    background-color: black;
+    margin: 20px;
+}
+
+.Navbar5  a{
+    font-size: 25px;
+    text-decoration: none;
+    color: white;
+}
+
+.Navbar5-li .Navbar5:hover{
+    position: relative;
+    right: -100px;
+    padding-right40px: ;
+    border-radius: 30px;
+    transition: 1.2;
+}
+
